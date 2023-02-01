@@ -1,10 +1,6 @@
-# ZoomCare Candidate Code Challenge - React/Typescript Schedule App
 
-![ZoomCare Logo](https://avatars0.githubusercontent.com/u/48925141?s=150)
 
-Welcome to the React/Typescript front-end developer challenge! If you are here you most likely have interest in joining the ZoomCare Software Engineering Team and asked to attempt of our software development challenges. If you came here on your own, you are welcome to explore the challenge and use it to sharpen your skills or prepare for future interviews.
 
-The ZoomCare Candidate Code Challenges are intended to take between 1 and 2 hours to complete. This is not intended to be an extensive test of your programing skills or knowledge, but rather as a starting point for further conversations during the application process.
 
 ## Requirements
 ```shell
@@ -52,7 +48,4 @@ This will give you either a list of clinics or a specific clinic in the form of 
 Use this as a guide for what your final product will look like. Note that the data in the example will not match the data you end up seeing, and that you should feel free to not be exact!
 ![Example screenshot](./example.png)
 
-## Steps to Complete
-* Create a Fork of the repository into your personal GitHub space.
-* Implement a solution.
-* Create a Pull Request back to the original project.
+
